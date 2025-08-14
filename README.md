@@ -2,7 +2,7 @@
 
 A comprehensive contract analysis platform that automatically extracts critical financial and operational data from PDF contracts, providing completeness scoring and gap analysis for accounts receivable management.
 
-## 🏗️ Architecture
+## Architecture
 
 The system follows a microservices architecture with the following components:
 
@@ -12,7 +12,7 @@ The system follows a microservices architecture with the following components:
 - **Processing**: Background contract parsing with PDF extraction
 - **Deployment**: Fully containerized with Docker Compose
 
-## 📋 Features
+## Features
 
 ### Core Functionality
 - **PDF Contract Upload**: Drag-and-drop interface with 50MB file size limit
@@ -42,7 +42,7 @@ The system follows a microservices architecture with the following components:
 - **Real-time Status**: Live processing progress tracking
 - **Responsive Design**: Mobile and desktop optimized
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Docker and Docker Compose
@@ -72,7 +72,7 @@ docker-compose up --build
 - **Backend API**: http://localhost:8000
 - **API Documentation**: http://localhost:8000/docs
 
-## 🛠️ Development Setup
+## Development Setup
 
 ### Backend Development
 ```bash
@@ -117,7 +117,7 @@ pytest tests/test_main.py
 pytest --cov=app --cov-report=html
 ```
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Contract Management
 - `POST /contracts/upload` - Upload contract for processing
@@ -129,7 +129,7 @@ pytest --cov=app --cov-report=html
 ### System
 - `GET /health` - Health check endpoint
 
-## 📊 Data Models
+## Data Models
 
 ### Extracted Data Structure
 ```json
@@ -194,7 +194,7 @@ The weighted scoring system evaluates contract completeness:
    - Email addresses: 5 points
    - Phone numbers: 5 points
 
-## 🐳 Docker Deployment
+## Docker Deployment
 
 The system includes complete Docker configuration:
 
@@ -219,7 +219,7 @@ docker-compose up -d --scale backend=3
 docker-compose down
 ```
 
-## 🧪 Testing Strategy
+## Testing Strategy
 
 ### Backend Tests
 - **Unit Tests**: Individual component testing
@@ -243,7 +243,7 @@ pytest --cov=app --cov-report=html
 pytest tests/test_contract_processor.py
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 ```bash
@@ -265,7 +265,7 @@ PROCESSING_TIMEOUT=300
 - Configurable upload directory via environment
 - Automatic cleanup of temporary files
 
-## 🚨 Error Handling
+## Error Handling
 
 ### Contract Processing Errors
 - **Invalid file type**: Returns HTTP 400 with descriptive message
@@ -282,7 +282,7 @@ PROCESSING_TIMEOUT=300
 }
 ```
 
-## 📈 Performance Considerations
+## Performance Considerations
 
 ### Scalability
 - Asynchronous background processing
@@ -296,7 +296,7 @@ PROCESSING_TIMEOUT=300
 - Efficient database queries with pagination
 - Frontend lazy loading and virtualization
 
-## 🔒 Security
+## Security
 
 ### File Upload Security
 - File type validation (PDF only)
@@ -310,7 +310,7 @@ PROCESSING_TIMEOUT=300
 - CORS configuration for frontend access
 - No sensitive data in logs
 
-## 🤝 Contributing
+## Contributing
 
 ### Development Workflow
 1. Fork the repository
@@ -326,7 +326,7 @@ PROCESSING_TIMEOUT=300
 - Comprehensive test coverage
 - Clear commit messages
 
-## 📚 Additional Resources
+## Additional Resources
 
 ### Documentation
 - [API Documentation](http://localhost:8000/docs) - Interactive Swagger UI
@@ -342,7 +342,7 @@ Test the system with various contract types:
 - Subscription agreements
 - Purchase orders
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -378,10 +378,8 @@ For technical issues or questions:
 3. Test connectivity: Use health check endpoint
 4. Review documentation: API docs at `/docs`
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-**Built with ❤️ for efficient contract management and accounts receivable optimization.**
