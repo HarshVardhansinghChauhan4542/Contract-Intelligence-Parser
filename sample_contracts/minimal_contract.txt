@@ -1,0 +1,15 @@
+BASIC SERVICE CONTRACT
+
+Date: March 1, 2024
+
+Between: ABC Company and XYZ Services
+
+Service: Website maintenance
+Amount: $500 monthly
+Payment: Due 30 days from invoice
+
+ABC Company agrees to pay XYZ Services for website maintenance services.
+
+Signatures:
+ABC Company Representative
+XYZ Services Representative

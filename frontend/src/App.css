@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  text-align: center;
+}
+
+.progress-bar {
+  transition: width 0.3s ease-in-out;
+}
+
+.score-meter {
+  background: conic-gradient(
+    from 0deg,
+    #ef4444 0deg 72deg,
+    #f59e0b 72deg 144deg,
+    #10b981 144deg 360deg
+  );
+}
+
+.file-drop-zone {
+  transition: all 0.3s ease;
+}
+
+.file-drop-zone:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.contract-card {
+  transition: all 0.3s ease;
+}
+
+.contract-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.loading-spinner {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

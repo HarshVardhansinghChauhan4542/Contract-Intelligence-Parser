@@ -1,0 +1,124 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on January 15, 2024, between:
+
+PARTY A: TechSolutions Inc.
+Legal Entity: Delaware Corporation
+Registration: Delaware File Number 1234567
+Address: 123 Technology Drive, San Francisco, CA 94105
+Authorized Signatory: John Smith, Chief Executive Officer
+Contact: john.smith@techsolutions.com
+Phone: (555) 123-4567
+
+PARTY B: GlobalCorp Limited
+Legal Entity: Limited Liability Company
+Registration: State of New York, LLC Number 9876543
+Address: 456 Business Avenue, New York, NY 10001
+Authorized Signatory: Jane Doe, Chief Financial Officer
+Contact: jane.doe@globalcorp.com
+Phone: (555) 987-6543
+
+RECITALS
+WHEREAS, TechSolutions Inc. provides cloud-based software solutions; and
+WHEREAS, GlobalCorp Limited desires to engage TechSolutions Inc. for technology services;
+
+NOW, THEREFORE, the parties agree as follows:
+
+1. SERVICES
+TechSolutions Inc. shall provide the following services:
+- Cloud infrastructure management
+- 24/7 technical support
+- Software licensing and maintenance
+- Data backup and recovery services
+
+2. FINANCIAL TERMS
+Service Fees:
+- Monthly service fee: $15,000 USD
+- Setup fee (one-time): $5,000 USD
+- Premium support addon: $2,500 USD per month
+Total Monthly Recurring Revenue: $17,500 USD
+Currency: United States Dollars (USD)
+
+Line Items:
+1. Cloud Infrastructure - Quantity: 1 - Unit Price: $10,000 - Total: $10,000
+2. Technical Support - Quantity: 1 - Unit Price: $5,000 - Total: $5,000
+3. Premium Support - Quantity: 1 - Unit Price: $2,500 - Total: $2,500
+
+Annual Contract Value: $210,000 USD
+Tax Information: Subject to applicable state and federal taxes
+
+3. PAYMENT TERMS
+Payment Terms: Net 30 days from invoice date
+Payment Methods: Wire transfer, ACH, or corporate credit card
+Invoice Schedule: Monthly recurring billing on the 1st of each month
+Late Payment: 1.5% per month on overdue amounts
+Banking Details: Account Number 123-456-789, Routing Number 987-654-321
+
+4. REVENUE CLASSIFICATION
+Billing Model: Recurring monthly subscription
+Billing Cycle: Monthly (1st of each month)
+Contract Term: 12 months with automatic renewal
+Auto-Renewal: Yes, unless terminated with 30 days written notice
+Renewal Terms: Automatic 12-month renewal at current rates
+
+5. SERVICE LEVEL AGREEMENT (SLA)
+Performance Metrics:
+- System uptime: 99.9% monthly availability
+- Response time: Maximum 2 seconds for API calls
+- Support response: 1 hour for critical issues, 4 hours for standard issues
+
+Benchmarks:
+- Industry-standard security compliance (SOC 2 Type II)
+- 99.99% data durability guarantee
+- Zero data loss tolerance
+
+Penalty Clauses:
+- Service credits equal to 5% of monthly fee for each 0.1% below 99.9% uptime
+- Full month credit for any security breach caused by service provider
+- Immediate termination right for failure to meet critical SLA metrics
+
+Remedies:
+- Service credits applied to next month's invoice
+- Priority technical support for SLA violations
+- Expedited resolution procedures for critical issues
+
+Support Terms:
+- 24/7 phone and email support
+- Dedicated customer success manager
+- Quarterly business reviews and optimization sessions
+
+Maintenance Terms:
+- Scheduled maintenance windows: 2nd Sunday of each month, 2-6 AM EST
+- Emergency maintenance with 4-hour advance notice when possible
+- Major system updates with 30 days advance notice
+
+6. ACCOUNT INFORMATION
+Customer Account Number: CUST-GC-2024-001
+Billing Contact: GlobalCorp Finance Department
+Billing Address: 456 Business Avenue, Accounting Dept, New York, NY 10001
+Billing Email: billing@globalcorp.com
+Technical Contact: GlobalCorp IT Department
+Technical Email: it-support@globalcorp.com
+Emergency Contact: (555) 987-6543 (24/7 hotline)
+
+7. TERMINATION
+Either party may terminate this agreement with 30 days written notice.
+TechSolutions Inc. will provide data export and transition assistance for 60 days post-termination.
+
+8. GOVERNING LAW
+This agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TECHSOLUTIONS INC.                    GLOBALCORP LIMITED
+
+_________________________            _________________________
+John Smith                            Jane Doe
+Chief Executive Officer               Chief Financial Officer
+Date: January 15, 2024               Date: January 15, 2024
+
+Witness:
+_________________________
+Sarah Johnson, Legal Counsel
+TechSolutions Inc.
+Date: January 15, 2024
